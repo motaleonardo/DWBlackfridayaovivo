@@ -1,0 +1,30 @@
+[0m13:44:42.603690 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106d0f590>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106d30890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106d30dd0>]}
+
+
+============================== 13:44:42.610263 | 8ab23ad5-ba99-4ac7-bbd1-440fe84a4e13 ==============================
+[0m13:44:42.610263 [info ] [MainThread]: Running with dbt=1.9.0-b2
+[0m13:44:42.610968 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'profiles_dir': '/Users/leonardomota/.dbt', 'log_path': 'logs', 'version_check': 'True', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt init', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m13:45:15.277115 [debug] [MainThread]: Starter project path: /Users/leonardomota/Desktop/PatrimoniAI/Pipeline/DWBlackfridayaovivo/.venv/lib/python3.11/site-packages/dbt/include/starter_project
+[0m13:45:15.289861 [info ] [MainThread]: 
+Your new dbt project "dwawsblackfriday" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m13:45:15.290411 [info ] [MainThread]: Setting up your profile.
+[0m13:46:16.597452 [info ] [MainThread]: Profile dwawsblackfriday written to /Users/leonardomota/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m13:46:16.601840 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 94.082855, "process_user_time": 1.481681, "process_kernel_time": 0.412798, "process_mem_max_rss": "93212672", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m13:46:16.602931 [debug] [MainThread]: Command `dbt init` succeeded at 13:46:16.602759 after 94.08 seconds
+[0m13:46:16.603477 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x102e50690>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106d30bd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x106d0dc90>]}
+[0m13:46:16.604172 [debug] [MainThread]: Flushing usage events
+[0m13:46:17.331369 [debug] [MainThread]: An error was encountered while trying to flush usage events

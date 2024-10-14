@@ -1,0 +1,55 @@
+date,city,country,deviceCategory,sessionSource,sessionMedium,totalUsers,newUsers,activeUsers,sessions,engagedSessions,averageSessionDuration,screenPageViews,conversions,totalRevenue
+20210922,(not set),Netherlands,desktop,(direct),(none),3,3,3,3,0,0.103278,3,0,0
+20210714,Los Angeles,United States,desktop,(direct),(none),2,2,2,0,0,0,2,0,0
+20210910,(not set),United States,desktop,(direct),(none),2,2,2,2,0,5.0232275,2,0,0
+20210910,Boardman,United States,desktop,(direct),(none),2,2,2,2,0,0,2,0,0
+20220106,(not set),United States,desktop,(direct),(none),2,2,2,2,0,0.4952465,2,0,0
+20220109,(not set),United States,desktop,(direct),(none),2,2,2,2,0,0.601077,2,0,0
+20220110,Boardman,United States,desktop,(direct),(none),2,2,2,2,0,0,2,0,0
+20210704,Aparecida de Goiania,Brazil,desktop,(direct),(none),1,1,1,0,0,0,2,0,0
+20210704,Aparecida de Goiania,Brazil,desktop,business.facebook.com,referral,1,1,1,0,0,0,3,0,0
+20210704,Rio de Janeiro,Brazil,desktop,(direct),(none),1,1,1,0,0,0,13,0,0
+20210705,Bengaluru,India,desktop,l.facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210705,Dublin,Ireland,mobile,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210705,Forest City,United States,desktop,translate.googleusercontent.com,referral,1,1,1,0,0,0,1,0,0
+20210705,Mumbai,India,desktop,(direct),(none),1,1,1,0,0,0,1,0,0
+20210705,Rio de Janeiro,Brazil,desktop,(direct),(none),1,1,1,0,0,0,3,0,0
+20210705,Rio de Janeiro,Brazil,desktop,(not set),(not set),1,0,1,0,0,0,21,0,0
+20210705,Rio de Janeiro,Brazil,desktop,l.facebook.com,referral,1,0,1,0,0,0,0,0,0
+20210705,Rio de Janeiro,Brazil,mobile,(not set),(not set),1,0,1,0,0,0,3,0,0
+20210706,Lulea,Sweden,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210707,Bengaluru,India,desktop,l.facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210709,(not set),Canada,mobile,(direct),(none),1,1,1,0,0,0,1,0,0
+20210709,New York,United States,mobile,(direct),(none),1,1,1,0,0,0,1,0,0
+20210710,Forest City,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210712,Ashburn,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210714,Santa Clara,United States,desktop,(direct),(none),1,1,1,0,0,0,1,0,0
+20210717,Dublin,Ireland,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210717,Forest City,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210719,Boardman,United States,desktop,(direct),(none),1,1,1,0,0,0,1,0,0
+20210721,Ashburn,United States,desktop,(direct),(none),1,1,1,0,0,0,1,0,0
+20210724,Fort Worth,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210731,Dublin,Ireland,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210807,Dublin,Ireland,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210809,Boardman,United States,desktop,(direct),(none),1,1,1,0,0,0,1,0,0
+20210814,Forest City,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210816,Dublin,Ireland,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210819,Forest City,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210821,Forest City,United States,desktop,facebook.com,referral,1,1,1,0,0,0,1,0,0
+20210828,Altoona,United States,desktop,facebook.com,referral,1,1,1,1,0,29.277966,1,0,0
+20210830,Boardman,United States,desktop,(direct),(none),1,1,1,1,0,0,1,0,0
+20210830,Fort Worth,United States,desktop,facebook.com,referral,1,1,1,1,0,28.117617,1,0,0
+20210920,Boardman,United States,desktop,(direct),(none),1,1,1,1,0,0,1,0,0
+20210922,(not set),Seychelles,desktop,(direct),(none),1,0,1,1,0,0.041039,0,0,0
+20210922,(not set),United States,desktop,(direct),(none),1,0,1,1,0,0.104398,0,0,0
+20210922,Amsterdam,Netherlands,desktop,(direct),(none),1,0,1,1,0,0.028103,0,0,0
+20210927,Guangzhou,China,desktop,(direct),(none),1,1,1,1,0,11.034316,1,0,0
+20211015,Boardman,United States,desktop,(direct),(none),1,1,1,1,0,0,1,0,0
+20211017,Forest City,United States,desktop,facebook.com,referral,1,1,1,1,0,29.596191,1,0,0
+20211019,Boardman,United States,desktop,(direct),(none),1,1,1,1,0,0,1,0,0
+20211111,Huntsville,United States,desktop,(direct),(none),1,1,1,1,0,5.010457,1,0,0
+20211112,Lulea,Sweden,desktop,facebook.com,referral,1,1,1,1,0,28.714775,1,0,0
+20220108,(not set),United States,desktop,(direct),(none),1,1,1,1,0,4.964039,1,0,0
+20220110,(not set),United States,desktop,(direct),(none),1,1,1,1,0,5.01703,1,0,0
+20220110,Coffeyville,United States,desktop,(direct),(none),1,1,1,1,0,4.950788,1,0,0
+20220201,Florianopolis,Brazil,desktop,(direct),(none),1,1,1,1,0,0,1,0,0
